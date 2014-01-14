@@ -1,0 +1,1 @@
+minerd32-sse2 -a scrypt-jane -o stratum+tcp://poolurlandport -u poolusername -p poolpassword -t 2

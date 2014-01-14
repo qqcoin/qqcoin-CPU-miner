@@ -1,0 +1,1 @@
+minerd64-avx -a scrypt-jane -o stratum+tcp://poolurlandport  -u poolusername -p poolpassword -t 4
